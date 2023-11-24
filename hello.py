@@ -1,5 +1,6 @@
 #GitPythonTest
 
+#Clear terminal
 import os
 os.system('clear')
 
